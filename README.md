@@ -19,7 +19,7 @@ An interactive Tic Tac Toe game built using Java Swing with a custom GUI design.
 
 ## Screenshots
 
-(./image/output_screenshot .png)
+!(./image/output_screenshot .png)
 
 ## How to Run
 
